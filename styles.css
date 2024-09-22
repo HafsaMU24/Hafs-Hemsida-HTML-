@@ -46,9 +46,11 @@ nav ul li a:haver {
 .section {
     margin: 40px 0;
     padding: 20px;
-    background-color:white;
+    background-color:darkgoldenrod;
     border-radius: 8px ;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1;
+    box-sizing:content-box;
+
 
 }
 .section h2 {
